@@ -1,5 +1,5 @@
 # Self-balancing-robot-tracking-tennis-ball
-The concept of two-wheel self-balancing robot is based on Inverted pendulum theory.
+The concept of this two-wheel self-balancing robot is based on Inverted pendulum theory.
 
 [![Self balancing robot tracking tennis ball](https://user-images.githubusercontent.com/50642442/135050872-7a297032-2a62-49a5-9276-f3c8aaf1fd55.png)](https://youtu.be/2faSF5KY5KM "Self balancing robot tracking tennis ball")
 
