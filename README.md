@@ -8,6 +8,8 @@ The concept of two-wheel self-balancing robot is based on Inverted pendulum theo
 To keep the robot balanced, the motors must counteract the robot falling. This action requires feedback and correcting elements. The feedback element is the MPU6050 gyroscope + accelerometer, which gives both acceleration and rotation in all three axes. The Arduino controller uses this method to “understand” the current orientation of the robot. The correcting element is the motor and wheel combination.
 A self balancing algorithm is programmed into the controller and the controller drives the motors either clockwise or anticlockwise to balance the basement by a pulse width modulation (PWM) control signal.
 
+![image](https://user-images.githubusercontent.com/50642442/135051867-a174e2c1-a4c6-4ab9-a670-ddeb289a6c2d.png)
+
 # Hardware
 
 Arduino Nano
