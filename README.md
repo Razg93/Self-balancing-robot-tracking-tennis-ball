@@ -38,7 +38,7 @@ A PID controller continuously measures a process variable and calculates an erro
 
 **The PID controller**
 
-The PID controller try to minimize this type of error over time by continuously adjusting a control variable (motor torque) according to the following equation:
+The PID controller tries to minimize this type of error over time by continuously adjusting a control variable (motor torque) according to the following equation:
 
 ![image](https://user-images.githubusercontent.com/50642442/135047823-99682262-b244-4218-a87d-d6b4fb599d87.png)
 
