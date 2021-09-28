@@ -33,7 +33,7 @@ HC-05 Bluetooth module
 
 # CONTROL TECHNIQUE
 
-To deal with the non-equilibrium problem, a PID controller is employed that uses tilt feedback to control the torque of the motors and keep the robot balance.
+To deal with the non-equilibrium problem, a PID controller is employed using tilt feedback to control the torque of the motors and keep the robot balanced.
 A PID controller continuously measures a process variable and calculates an error value (angle from the vertical), which is the deviation of the process variable from some desired value.
 
 **The PID controller**
